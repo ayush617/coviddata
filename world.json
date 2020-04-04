@@ -1,10 +1,6 @@
 {
-  "data": [
-    {
-      "confirmed":"718204",
-      "recovered":"150918",
-      "critical":"26743",
-      "deaths":"33890"
-    },
-    ]
+  "confirmed":"718204",
+  "recovered":"150918",
+  "critical":"26743",
+  "deaths":"33890"
 }
