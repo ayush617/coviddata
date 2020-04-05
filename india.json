@@ -6,151 +6,151 @@
              "migrated":"1"
             }
    "state":{
-  "AndhraPradesh": {
-    "CONFIRMED": "190",
-    "CURED": "1",
-    "DEATH": "1"
-  },
-  "AndamanNicobar": {
-    "CONFIRMED": "10",
-    "CURED": "0",
-    "DEATH": "0"
-  },
-  "Bihar": {
-    "CONFIRMED": "30",
-    "CURED": "0",
-    "DEATH": "1"
-  },
-  "Chandigarh": {
-    "CONFIRMED": "18",
-    "CURED": "0",
-    "DEATH": "0"
-  },
-  "Chhattisgarh": {
-    "CONFIRMED": "9",
-    "CURED": "3",
-    "DEATH": "0"
-  },
-  "Delhi": {
-    "CONFIRMED": "503",
-    "CURED": "18",
-    "DEATH": "7"
-  },
-  "Goa": {
-    "CONFIRMED": "7",
-    "CURED": "0",
-    "DEATH": "0"
-  },
-  "Gujarat": {
-    "CONFIRMED": "122",
-    "CURED": "18",
-    "DEATH": "11"
-  },
-  "Haryana": {
-    "CONFIRMED": "59",
-    "CURED": "25",
-    "DEATH": "1"
-  },
-  "HimachalPradesh": {
-    "CONFIRMED": "6",
-    "CURED": "1",
-    "DEATH": "1"
-  },
-  "J& K": {
-    "CONFIRMED": "106",
-    "CURED": "4",
-    "DEATH": "2"
-  },
-  "Karnataka": {
-    "CONFIRMED": "144",
-    "CURED": "12",
-    "DEATH": "4"
-  },
-  "Kerala": {
-    "CONFIRMED": "306",
-    "CURED": "49",
-    "DEATH": "2"
-  },
-  "Ladakh": {
-    "CONFIRMED": "14",
-    "CURED": "10",
-    "DEATH": "0"
-  },
-  "MP": {
-    "CONFIRMED": "165",
-    "CURED": "0",
-    "DEATH": "9"
-  },
-  "Maharashtra": {
-    "CONFIRMED": "490",
-    "CURED": "42",
-    "DEATH": "24"
-  },
-  "Manipur": {
-    "CONFIRMED": "2",
-    "CURED": "0",
-    "DEATH": "0"
-  },
-  "Mizoram": {
-    "CONFIRMED": "1",
-    "CURED": "0",
-    "DEATH": "0"
-  },
-  "Odisha": {
-    "CONFIRMED": "20",
-    "CURED": "0",
-    "DEATH": "0"
-  },
-  "Puducherry": {
-    "CONFIRMED": "5",
-    "CURED": "1",
-    "DEATH": "0"
-  },
-  "Punjab": {
-    "CONFIRMED": "57",
-    "CURED": "1",
-    "DEATH": "5"
-  },
-  "Rajasthan": {
-    "CONFIRMED": "200",
-    "CURED": "21",
-    "DEATH": "0"
-  },
-  "TamilNadu": {
-    "CONFIRMED": "485",
-    "CURED": "6",
-    "DEATH": "3"
-  },
-  "Telengana": {
-    "CONFIRMED": "269",
-    "CURED": "32",
-    "DEATH": "7"
-  },
-  "Uttarakhand": {
-    "CONFIRMED": "22",
-    "CURED": "2",
-    "DEATH": "0"
-  },
-  "UttarPradesh": {
-    "CONFIRMED": "227",
-    "CURED": "19",
-    "DEATH": "2"
-  },
-  "West": false,
-  "Assam": {
-    "CONFIRMED": "26",
-    "CURED": "0",
-    "DEATH": "0"
-  },
-  "Jharkhand": {
-    "CONFIRMED": "3",
-    "CURED": "0",
-    "DEATH": "0"
-  },
-  "Arunachal": {
-    "CONFIRMED": "1",
-    "CURED": "0",
-    "DEATH": "0"
-  }
-}
+           "AndhraPradesh": {
+             "CONFIRMED": "190",
+             "CURED": "1",
+             "DEATH": "1"
+           },
+           "AndamanNicobar": {
+             "CONFIRMED": "10",
+             "CURED": "0",
+             "DEATH": "0"
+           },
+           "Bihar": {
+             "CONFIRMED": "30",
+             "CURED": "0",
+             "DEATH": "1"
+           },
+           "Chandigarh": {
+             "CONFIRMED": "18",
+             "CURED": "0",
+             "DEATH": "0"
+           },
+           "Chhattisgarh": {
+             "CONFIRMED": "9",
+             "CURED": "3",
+             "DEATH": "0"
+           },
+           "Delhi": {
+             "CONFIRMED": "503",
+             "CURED": "18",
+             "DEATH": "7"
+           },
+           "Goa": {
+             "CONFIRMED": "7",
+             "CURED": "0",
+             "DEATH": "0"
+           },
+           "Gujarat": {
+             "CONFIRMED": "122",
+             "CURED": "18",
+             "DEATH": "11"
+           },
+           "Haryana": {
+             "CONFIRMED": "59",
+             "CURED": "25",
+             "DEATH": "1"
+           },
+           "HimachalPradesh": {
+             "CONFIRMED": "6",
+             "CURED": "1",
+             "DEATH": "1"
+           },
+           "J& K": {
+             "CONFIRMED": "106",
+             "CURED": "4",
+             "DEATH": "2"
+           },
+           "Karnataka": {
+             "CONFIRMED": "144",
+             "CURED": "12",
+             "DEATH": "4"
+           },
+           "Kerala": {
+             "CONFIRMED": "306",
+             "CURED": "49",
+             "DEATH": "2"
+           },
+           "Ladakh": {
+             "CONFIRMED": "14",
+             "CURED": "10",
+             "DEATH": "0"
+           },
+           "MP": {
+             "CONFIRMED": "165",
+             "CURED": "0",
+             "DEATH": "9"
+           },
+           "Maharashtra": {
+             "CONFIRMED": "490",
+             "CURED": "42",
+             "DEATH": "24"
+           },
+           "Manipur": {
+             "CONFIRMED": "2",
+             "CURED": "0",
+             "DEATH": "0"
+           },
+           "Mizoram": {
+             "CONFIRMED": "1",
+             "CURED": "0",
+             "DEATH": "0"
+           },
+           "Odisha": {
+             "CONFIRMED": "20",
+             "CURED": "0",
+             "DEATH": "0"
+           },
+           "Puducherry": {
+             "CONFIRMED": "5",
+             "CURED": "1",
+             "DEATH": "0"
+           },
+           "Punjab": {
+             "CONFIRMED": "57",
+             "CURED": "1",
+             "DEATH": "5"
+           },
+           "Rajasthan": {
+             "CONFIRMED": "200",
+             "CURED": "21",
+             "DEATH": "0"
+           },
+           "TamilNadu": {
+             "CONFIRMED": "485",
+             "CURED": "6",
+             "DEATH": "3"
+           },
+           "Telengana": {
+             "CONFIRMED": "269",
+             "CURED": "32",
+             "DEATH": "7"
+           },
+           "Uttarakhand": {
+             "CONFIRMED": "22",
+             "CURED": "2",
+             "DEATH": "0"
+           },
+           "UttarPradesh": {
+             "CONFIRMED": "227",
+             "CURED": "19",
+             "DEATH": "2"
+           },
+           "West": false,
+           "Assam": {
+             "CONFIRMED": "26",
+             "CURED": "0",
+             "DEATH": "0"
+           },
+           "Jharkhand": {
+             "CONFIRMED": "3",
+             "CURED": "0",
+             "DEATH": "0"
+           },
+           "Arunachal": {
+             "CONFIRMED": "1",
+             "CURED": "0",
+             "DEATH": "0"
+           }
+         }
 }
