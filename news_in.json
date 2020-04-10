@@ -1,94 +1,116 @@
 {
-  "timestamp": 1586267279,
-  "articleCount": 8,
-  "articles": [
-    {
-      "title": "Small business owners falling through the cracks of federal relief programs",
-      "description": "#bcpoli #covid19 @news1130 — LizaYuzda (@LizaYuzda) April 6, 2020 Brie Balmer says she is trying to keep her Langley juice bar from going under, but it’s too small for the new federal business loan ...",
-      "url": "https://www.citynews1130.com/2020/04/06/small-businesses-struggle-covid-19/",
-      "image": "https://images.gnews.io/5be42e6756bec2c7e5c31608918f7a14",
-      "publishedAt": "2020-04-06 17:19:00 UTC",
-      "source": {
-        "name": "citynews1130",
-        "url": "https://www.citynews1130.com"
+   "timestamp":1586561727,
+   "articleCount":10,
+   "articles":[
+      {
+         "title":"CBI warns against release of Wadhawan brothers from covid19 quarantine without nod",
+         "description":"The brothers are named as accused in the CBI FIR pertaining to swindling of money by Yes Bank former CEO Rana Kapoor and other accused ...",
+         "url":"https:\/\/www.deccanchronicle.com\/nation\/crime\/100420\/cbi-warns-against-release-of-wadhawan-brothers-from-covid19-quarantine.html",
+         "image":"https:\/\/images.gnews.io\/df706e0e7bd2fbe89bc9c7c61a2e4a43",
+         "publishedAt":"2020-04-10 08:06:00 UTC",
+         "source":{
+            "name":"Deccan Chronicle",
+            "url":"https:\/\/www.deccanchronicle.com"
+         }
+      },
+      {
+         "title":"Indian Economy Needs $200-$300 Billion Stimulus To Fight Covid19, Says ASSOCHAM",
+         "description":"Associated Chambers of Commerce and Industry of India (ASSOCHAM) has recommended a stimulus package of at least $200-$300 billion and a 16-point agenda to sustain India's economy and thwart the global ...",
+         "url":"https:\/\/www.ndtv.com\/business\/indian-economy-needs-200-300-billion-stimulus-to-fight-covid19-says-assocham-2208748",
+         "image":"https:\/\/images.gnews.io\/5184d279cb72a8fa1306d8e3b78fea4b",
+         "publishedAt":"2020-04-08 23:55:00 UTC",
+         "source":{
+            "name":"NDTV",
+            "url":"https:\/\/www.ndtv.com"
+         }
+      },
+      {
+         "title":"Bhubaneswar declares locality \u2018containment zone\u2019 after man with no recent travel history tests COVID19 positive",
+         "description":"Odisha Coronavirus News: The Satya Nagar locality in Bhubaneswar was declared a containment zone on Wednesday after a person having no recent travel history to any part of the country tested positive ...",
+         "url":"https:\/\/www.financialexpress.com\/lifestyle\/health\/bhubaneswar-satya-nagar-news-coronavirus-bmc-odisha-coronavirus-news-patients-total-number-covid19-odisha-news\/1922201\/",
+         "image":"https:\/\/images.gnews.io\/81f5aad669dc5d03eb137cd65606242f",
+         "publishedAt":"2020-04-08 11:32:00 UTC",
+         "source":{
+            "name":"The Financial Express",
+            "url":"https:\/\/www.financialexpress.com"
+         }
+      },
+      {
+         "title":"McDonald\u2019s India introduces a unique \u2018Work from Home\u2019 policy for its Restaurant Management Team and Frontline Crew",
+         "description":"NEW DELHI\/MUMBAI: The ongoing 21-day lockdown in the wake of n-COVID19 in the country has posed unprecedented challenges for the ad world. With entire companies forced to work from home and shoots ...",
+         "url":"https:\/\/indiantelevision.com\/mam\/marketing\/mam\/mcdonald-s-india-introduces-a-unique-work-from-home-policy-for-its-restaurant-management-team-and-frontline-crew-200407",
+         "image":"https:\/\/images.gnews.io\/9aaa53eb1a07de08473671605e22a91f",
+         "publishedAt":"2020-04-07 04:52:00 UTC",
+         "source":{
+            "name":"Indian Television Dot Com",
+            "url":"https:\/\/indiantelevision.com"
+         }
+      },
+      {
+         "title":"1 lakh tests will be conducted in Delhi's Covid19 hotspots, Kejriwal says",
+         "description":"The Delhi government will takeover 12,000 hotel rooms in the wake of spike in number of coronavirus cases, he added New Delhi: Delhi Chief Minister Arvind Kejriwal announced on Tuesday a five-point ...",
+         "url":"https:\/\/www.deccanchronicle.com\/nation\/current-affairs\/070420\/1-lakh-tests-will-be-conducted-in-delhis-covid19-hotspots-kejriwal-s.html",
+         "image":"https:\/\/images.gnews.io\/0eacfe197da950e5c0be99a75bd405fa",
+         "publishedAt":"2020-04-07 01:45:00 UTC",
+         "source":{
+            "name":"Deccan Chronicle",
+            "url":"https:\/\/www.deccanchronicle.com"
+         }
+      },
+      {
+         "title":"Plea Moved In Delhi HC Highlighting Plight of Indians Who Lost Jobs in USA Due To Economic Slowdown Caused By COVID19",
+         "description":"Highlighting the said issue, the plea seeks court's direction to the government to evacuate Petitioner's daughter, as well as other Indians who have been stranded in the USA. It is argued that it is ...",
+         "url":"https:\/\/www.livelaw.in\/news-updates\/plea-moved-in-delhi-hc-highlighting-plight-of-indians-who-lost-jobs-in-usa-due-to-economic-slowdown-caused-by-covid19-154858",
+         "image":"https:\/\/images.gnews.io\/fb299a17ab58cf87d3c6d1a93198807d",
+         "publishedAt":"2020-04-06 19:25:00 UTC",
+         "source":{
+            "name":"Live Law",
+            "url":"https:\/\/www.livelaw.in"
+         }
+      },
+      {
+         "title":"Small business owners falling through the cracks of federal relief programs",
+         "description":"#bcpoli #covid19 @news1130 \u2014 LizaYuzda (@LizaYuzda) April 6, 2020 Brie Balmer says she is trying to keep her Langley juice bar from going under, but it\u2019s too small for the new federal business loan ...",
+         "url":"https:\/\/www.citynews1130.com\/2020\/04\/06\/small-businesses-struggle-covid-19\/",
+         "image":"https:\/\/images.gnews.io\/5be42e6756bec2c7e5c31608918f7a14",
+         "publishedAt":"2020-04-06 17:06:00 UTC",
+         "source":{
+            "name":"citynews1130",
+            "url":"https:\/\/www.citynews1130.com"
+         }
+      },
+      {
+         "title":"MSME Technology Centres Contributing in A Big Way in Fight Against COVID19",
+         "description":"Eighteen operational Technology centres, autonomous bodies under Ministry of Micro, Small and Medium Enterprises (MSME), are also playing their role and contributing in the fight with COVID19. Central ...",
+         "url":"https:\/\/indiaeducationdiary.in\/msme-technology-centres-contributing-in-a-big-way-in-fight-against-covid19\/",
+         "image":"https:\/\/images.gnews.io\/3d83c2d98f2198e6ada5f08104b2440e",
+         "publishedAt":"2020-04-05 04:10:00 UTC",
+         "source":{
+            "name":"India Education Diary",
+            "url":"https:\/\/indiaeducationdiary.in"
+         }
+      },
+      {
+         "title":"Bangla women cricketers to get Covid19 shutdown allowance",
+         "description":"BCB had announced a one-time financial aid of 30,000 BDT to their male players who do not have central or first-class contracts ...",
+         "url":"https:\/\/www.deccanchronicle.com\/sports\/cricket\/310320\/bangla-women-cricketers-to-get-covid19-shutdown-allowance.html",
+         "image":"https:\/\/images.gnews.io\/b1f2ff21a4c84b87aaa97b179234b7c4",
+         "publishedAt":"2020-03-31 21:06:00 UTC",
+         "source":{
+            "name":"Deccan Chronicle",
+            "url":"https:\/\/www.deccanchronicle.com"
+         }
+      },
+      {
+         "title":"Covid19: Housefly can carry coronavirus! Amitabh Bachchan quotes Lancet report",
+         "description":"Referring to a Lancet research, Bachchan said that the virus can find a viral carrier in houseflies and take gigantic proportions across the country.",
+         "url":"https:\/\/in.finance.yahoo.com\/news\/covid19-housefly-carry-coronavirus-amitabh-081957739.html",
+         "image":"https:\/\/images.gnews.io\/e2ccbe591bb795dafdf1a915704fbb38",
+         "publishedAt":"2020-03-26 01:32:00 UTC",
+         "source":{
+            "name":"YAHOO!",
+            "url":"https:\/\/in.finance.yahoo.com"
+         }
       }
-    },
-    {
-      "title": "Covid19: Housefly can carry coronavirus! Amitabh Bachchan quotes Lancet report",
-      "description": "Referring to a Lancet research, Bachchan said that the virus can find a viral carrier in houseflies and take gigantic proportions across the country.",
-      "url": "https://in.finance.yahoo.com/news/covid19-housefly-carry-coronavirus-amitabh-081957739.html",
-      "image": "https://images.gnews.io/e2ccbe591bb795dafdf1a915704fbb38",
-      "publishedAt": "2020-03-26 01:32:00 UTC",
-      "source": {
-        "name": "YAHOO!",
-        "url": "https://in.finance.yahoo.com"
-      }
-    },
-    {
-      "title": "COVID-19: Sports fraternity hails PM Modi’s lockdown move",
-      "description": "“Let’s all unite in this war against #COVID19 ... cure for Covid 19. — Virat Kohli (@imVkohli) March 24, 2020 “The entire country will be in lockdown from Tuesday midnight to 14 April, I request all ...",
-      "url": "https://www.thestatesman.com/sports/covid-19-sports-fraternity-hails-pm-modis-lockdown-move-1502869671.html",
-      "image": "https://images.gnews.io/7b3f2bcd45426b5d3639d935748e13cf",
-      "publishedAt": "2020-03-24 22:08:00 UTC",
-      "source": {
-        "name": "The Statesman",
-        "url": "https://www.thestatesman.com"
-      }
-    },
-    {
-      "title": "Coronavirus updates from India and the world: Number of COVID-19 cases in India rises to 562",
-      "description": "Number of COVID-19 cases in India rises to 562(including 40 cured/discharged and 9 deaths): Union Health Ministry Number of #COVID19 cases in India rises to 562(including 40 cured/discharged and 9 ...",
-      "url": "https://www.freepressjournal.in/india/coronavirus-updates-from-india-and-the-world-tamil-nadu-man-dies-taking-death-toll-in-india-to-11",
-      "image": "https://images.gnews.io/98b2dcaf35ba37086a1ebd13e680bebf",
-      "publishedAt": "2020-03-24 21:32:00 UTC",
-      "source": {
-        "name": "The Free Press Journal",
-        "url": "https://www.freepressjournal.in"
-      }
-    },
-    {
-      "title": "Coronavirus LIVE: Air India advises staff to work from home to reduce attendance over COVID-19",
-      "description": "3 new positive cases of COVID-19 found in Phillaur city of Jalandhar district: Punjab Health Minister Balbir Singh Sidhu Three new positive cases of #COVID19 found in Phillaur city of Jalandhar ...",
-      "url": "https://www.nationalheraldindia.com/india/coronavirus-live-updates-covid-19-india-wuhan-us-italy-who-alert-novel-coronavirus-latest-news-24th-march",
-      "image": "https://images.gnews.io/9b515ef2ba43c5add56bd54fc2587d7b",
-      "publishedAt": "2020-03-24 03:58:00 UTC",
-      "source": {
-        "name": "National Herald",
-        "url": "https://www.nationalheraldindia.com"
-      }
-    },
-    {
-      "title": "Fighting Covid-19 terror",
-      "description": "Jammu Doctors Forum forged ahead to fight against the panic and terror of Corona virus i.e. COVID19. This viral infection has taken the ... ranged from mild symptoms to severe illness and death for ...",
-      "url": "https://www.dailyexcelsior.com/fighting-covid-19-terror/",
-      "image": "https://images.gnews.io/1fc8e68fd79316af0cae8ff66caffd82",
-      "publishedAt": "2020-03-23 11:57:00 UTC",
-      "source": {
-        "name": "Daily Excelsior",
-        "url": "https://www.dailyexcelsior.com"
-      }
-    },
-    {
-      "title": "Covid 19 Outbreak: Corporate Spending Towards Covid19 Eligible As CSR",
-      "description": "it is hereby clarified that spending of CSR funds for COVID-19 is eligible for CSR activity\". The release further stated that money could be spent for healthcare promotion such as preventive ...",
-      "url": "https://www.goodreturns.in/news/covid-19-outbreak-corporate-spending-towards-covid19-eligib-1145407.html",
-      "image": "https://images.gnews.io/0fd85af3317bb50b17a172921d3aa830",
-      "publishedAt": "2020-03-23 05:30:00 UTC",
-      "source": {
-        "name": "Goodreturns",
-        "url": "https://www.goodreturns.in"
-      }
-    },
-    {
-      "title": "Corona Coverage",
-      "description": "The article is called COVID19-Like Animal-To-Human Diseases Set To Grow ... The article is called ‘If COVID-19 Virus Evolves As It Did In China Or Italy, We Definitely Have Something To Worry About’ ...",
-      "url": "https://www.indiaspend.com/corona-coverage/",
-      "image": "https://images.gnews.io/352c47467d38fe7716fc46ad0fbde259",
-      "publishedAt": "2020-03-23 03:37:00 UTC",
-      "source": {
-        "name": "IndiaSpend.com",
-        "url": "https://www.indiaspend.com"
-      }
-    }
-  ]
+   ]
 }
